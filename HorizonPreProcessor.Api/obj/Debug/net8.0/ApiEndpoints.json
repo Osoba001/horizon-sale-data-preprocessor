@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "HorizonPreProcessor.Api.Controllers.SaleDataTransformController",
+    "Method": "TransformStream",
+    "RelativePath": "api/SaleDataTransform",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "HorizonPreProcessor.Api.DTOs.ApiResponse\u00601[[System.Collections.Generic.List\u00601[[HorizonPreProcessor.Api.DTOs.OutputSalesRecord, HorizonPreProcessor.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
