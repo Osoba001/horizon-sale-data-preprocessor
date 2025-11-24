@@ -18,7 +18,7 @@ HTTP File: Use HorizonPreProcessor.Api.http in the project.
 
 Command Line (cURL):
 
-curl -X POST http://localhost:5091/api/SaleDataTransform \
+curl -X POST https://localhost:7085/api/SaleDataTransform \
      -H "Content-Type: application/json" \
      -d @path/to/sales2.json
 
