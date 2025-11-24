@@ -60,8 +60,9 @@ namespace HorizonPreProcessor.Api.Controllers
             }
 
             return Ok(new { success = true, 
-                summary = new { totalRecords = record, totalFailed = errors.Count, totalItems = successful.Count }, 
-                data = successful, errors });
+                summary = new { totalInputRecords = record, totalFailed = errors.Count, totalSalesRecords = successful.Count,  },
+                errors,
+                data = successful});
         }
 
         private ApiResponse<object> CreateErrorResponse(string error)

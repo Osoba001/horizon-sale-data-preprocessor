@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\controllers\\saledatatransformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\controllers\\saledatatransformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2282CE2F-87F7-404A-8D1F-2A607FBCFBC1}|HorizonPreProcessor.Tests\\HorizonPreProcessor.Tests.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.tests\\horizonpreprocessor.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2282CE2F-87F7-404A-8D1F-2A607FBCFBC1}|HorizonPreProcessor.Tests\\HorizonPreProcessor.Tests.csproj|solutionrelative:horizonpreprocessor.tests\\horizonpreprocessor.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\horizonpreprocessor.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\horizonpreprocessor.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\horizonpreprocessor.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\horizonpreprocessor.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2282CE2F-87F7-404A-8D1F-2A607FBCFBC1}|HorizonPreProcessor.Tests\\HorizonPreProcessor.Tests.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.tests\\salesdatatransformertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2282CE2F-87F7-404A-8D1F-2A607FBCFBC1}|HorizonPreProcessor.Tests\\HorizonPreProcessor.Tests.csproj|solutionrelative:horizonpreprocessor.tests\\salesdatatransformertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\services\\salesdatatransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\services\\salesdatatransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\services\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\services\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\dtos\\inputsalesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\dtos\\inputsalesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\controllers\\saledatatransformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\controllers\\saledatatransformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\services\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\services\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\dtos\\outputsalesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\dtos\\outputsalesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\services\\salesdatatransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\services\\salesdatatransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\services\\addressformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,8 +43,16 @@
       "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\services\\dataparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\horizonpreprocessor.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\horizonpreprocessor.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2282CE2F-87F7-404A-8D1F-2A607FBCFBC1}|HorizonPreProcessor.Tests\\HorizonPreProcessor.Tests.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.tests\\salesdatatransformertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2282CE2F-87F7-404A-8D1F-2A607FBCFBC1}|HorizonPreProcessor.Tests\\HorizonPreProcessor.Tests.csproj|solutionrelative:horizonpreprocessor.tests\\salesdatatransformertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\dtos\\inputsalesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\dtos\\inputsalesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|c:\\users\\user\\onedrive\\desktop\\apps\\horizonpreprocessor\\horizonpreprocessor.api\\dtos\\outputsalesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B8C4AB-3BFF-4980-BDD4-C1C40D69AC53}|HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj|solutionrelative:horizonpreprocessor.api\\dtos\\outputsalesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,76 +62,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HorizonPreProcessor.Api.http",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\HorizonPreProcessor.Api.http",
-              "RelativeDocumentMoniker": "HorizonPreProcessor.Api\\HorizonPreProcessor.Api.http",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\HorizonPreProcessor.Api.http",
-              "RelativeToolTip": "HorizonPreProcessor.Api\\HorizonPreProcessor.Api.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-11-23T15:54:20.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SalesDataTransformerTests.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Tests\\SalesDataTransformerTests.cs",
-              "RelativeDocumentMoniker": "HorizonPreProcessor.Tests\\SalesDataTransformerTests.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Tests\\SalesDataTransformerTests.cs",
-              "RelativeToolTip": "HorizonPreProcessor.Tests\\SalesDataTransformerTests.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T22:27:33.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Validator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\Services\\Validator.cs",
-              "RelativeDocumentMoniker": "HorizonPreProcessor.Api\\Services\\Validator.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\Services\\Validator.cs",
-              "RelativeToolTip": "HorizonPreProcessor.Api\\Services\\Validator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T21:44:03.939Z",
+              "Title": "HorizonPreProcessor.Tests",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Tests\\HorizonPreProcessor.Tests.csproj",
+              "RelativeDocumentMoniker": "HorizonPreProcessor.Tests\\HorizonPreProcessor.Tests.csproj",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Tests\\HorizonPreProcessor.Tests.csproj",
+              "RelativeToolTip": "HorizonPreProcessor.Tests\\HorizonPreProcessor.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T11:03:59.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SalesDataTransformer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\Services\\SalesDataTransformer.cs",
-              "RelativeDocumentMoniker": "HorizonPreProcessor.Api\\Services\\SalesDataTransformer.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\Services\\SalesDataTransformer.cs",
-              "RelativeToolTip": "HorizonPreProcessor.Api\\Services\\SalesDataTransformer.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T19:20:26.685Z",
+              "Title": "HorizonPreProcessor.Api.http",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\HorizonPreProcessor.Api.http",
+              "RelativeDocumentMoniker": "HorizonPreProcessor.Api\\HorizonPreProcessor.Api.http",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\HorizonPreProcessor.Api.http",
+              "RelativeToolTip": "HorizonPreProcessor.Api\\HorizonPreProcessor.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-23T15:55:45.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InputSalesRecord.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\DTOs\\InputSalesRecord.cs",
-              "RelativeDocumentMoniker": "HorizonPreProcessor.Api\\DTOs\\InputSalesRecord.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\DTOs\\InputSalesRecord.cs",
-              "RelativeToolTip": "HorizonPreProcessor.Api\\DTOs\\InputSalesRecord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T09:40:42.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "OutputSalesRecord.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\DTOs\\OutputSalesRecord.cs",
               "RelativeDocumentMoniker": "HorizonPreProcessor.Api\\DTOs\\OutputSalesRecord.cs",
@@ -135,78 +100,75 @@
               "RelativeToolTip": "HorizonPreProcessor.Api\\DTOs\\OutputSalesRecord.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAMwBgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T09:40:51.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T09:40:51.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "AddressFormatter.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\Services\\AddressFormatter.cs",
               "RelativeDocumentMoniker": "HorizonPreProcessor.Api\\Services\\AddressFormatter.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\Services\\AddressFormatter.cs",
               "RelativeToolTip": "HorizonPreProcessor.Api\\Services\\AddressFormatter.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T13:51:34.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T13:51:34.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\Program.cs",
               "RelativeDocumentMoniker": "HorizonPreProcessor.Api\\Program.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\Program.cs",
               "RelativeToolTip": "HorizonPreProcessor.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-22T09:46:39.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "SaleDataTransformController.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\Controllers\\SaleDataTransformController.cs",
               "RelativeDocumentMoniker": "HorizonPreProcessor.Api\\Controllers\\SaleDataTransformController.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\Controllers\\SaleDataTransformController.cs",
               "RelativeToolTip": "HorizonPreProcessor.Api\\Controllers\\SaleDataTransformController.cs",
-              "ViewState": "AgIAABwAAAAANDMzMzMbwBwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-22T09:37:19.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "DataParser.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\Services\\DataParser.cs",
               "RelativeDocumentMoniker": "HorizonPreProcessor.Api\\Services\\DataParser.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\Services\\DataParser.cs",
               "RelativeToolTip": "HorizonPreProcessor.Api\\Services\\DataParser.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T13:35:06.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T13:35:06.175Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "GlobalExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\GlobalExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "HorizonPreProcessor.Api\\GlobalExceptionMiddleware.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\GlobalExceptionMiddleware.cs",
               "RelativeToolTip": "HorizonPreProcessor.Api\\GlobalExceptionMiddleware.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-22T13:58:19.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HorizonPreProcessor.Api",
+              "DocumentIndex": 2,
+              "Title": "HorizonPreProcessor.Api.csproj",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj",
               "RelativeDocumentMoniker": "HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\HorizonPreProcessor.Api.csproj",
@@ -215,6 +177,55 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-22T09:52:48.949Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalesDataTransformer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\Services\\SalesDataTransformer.cs",
+              "RelativeDocumentMoniker": "HorizonPreProcessor.Api\\Services\\SalesDataTransformer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\Services\\SalesDataTransformer.cs",
+              "RelativeToolTip": "HorizonPreProcessor.Api\\Services\\SalesDataTransformer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T19:20:26.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\Services\\Validator.cs",
+              "RelativeDocumentMoniker": "HorizonPreProcessor.Api\\Services\\Validator.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\Services\\Validator.cs",
+              "RelativeToolTip": "HorizonPreProcessor.Api\\Services\\Validator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:44:03.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InputSalesRecord.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\DTOs\\InputSalesRecord.cs",
+              "RelativeDocumentMoniker": "HorizonPreProcessor.Api\\DTOs\\InputSalesRecord.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Api\\DTOs\\InputSalesRecord.cs",
+              "RelativeToolTip": "HorizonPreProcessor.Api\\DTOs\\InputSalesRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:40:42.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalesDataTransformerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Tests\\SalesDataTransformerTests.cs",
+              "RelativeDocumentMoniker": "HorizonPreProcessor.Tests\\SalesDataTransformerTests.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Apps\\HorizonPreProcessor\\HorizonPreProcessor.Tests\\SalesDataTransformerTests.cs",
+              "RelativeToolTip": "HorizonPreProcessor.Tests\\SalesDataTransformerTests.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T22:27:33.039Z"
             }
           ]
         }

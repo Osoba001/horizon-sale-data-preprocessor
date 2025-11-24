@@ -33,3 +33,4 @@ C:\Users\User\OneDrive\Desktop\Apps\HorizonPreProcessor\HorizonPreProcessor.Api\
 C:\Users\User\OneDrive\Desktop\Apps\HorizonPreProcessor\HorizonPreProcessor.Api\obj\Debug\net8.0\HorizonPreProcessor.Api.pdb
 C:\Users\User\OneDrive\Desktop\Apps\HorizonPreProcessor\HorizonPreProcessor.Api\obj\Debug\net8.0\HorizonPreProcessor.Api.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\Apps\HorizonPreProcessor\HorizonPreProcessor.Api\obj\Debug\net8.0\ref\HorizonPreProcessor.Api.dll
+C:\Users\User\OneDrive\Desktop\Apps\HorizonPreProcessor\HorizonPreProcessor.Api\obj\Debug\net8.0\HorizonPreProcessor.Api.sourcelink.json
