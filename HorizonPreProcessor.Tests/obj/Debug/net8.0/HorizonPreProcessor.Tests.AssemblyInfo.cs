@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HorizonPreProcessor.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64253d5ad243bbe79740be7a09d161e830bbcfe7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7376bf3c851690128a60cc96bc06277ebf933431")]
 [assembly: System.Reflection.AssemblyProductAttribute("HorizonPreProcessor.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HorizonPreProcessor.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

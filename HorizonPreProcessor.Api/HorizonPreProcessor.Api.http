@@ -1,4 +1,4 @@
-@HorizonPreProcessor.Api_HostAddress = http://localhost:5091
+@HorizonPreProcessor.Api_HostAddress = https://localhost:7085
 
 POST {{HorizonPreProcessor.Api_HostAddress}}/api/SaleDataTransform
 Content-Type: application/json

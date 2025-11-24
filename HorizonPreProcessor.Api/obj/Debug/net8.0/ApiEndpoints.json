@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "HorizonPreProcessor.Api.APIsConfiguration\u002B\u003C\u003Ec",
+    "Method": "\u003CMapSaleDataTransformApis\u003Eb__0_0",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "HorizonPreProcessor.Api.APIsConfiguration",
     "Method": "TransformStream",
     "RelativePath": "api/SaleDataTransform",

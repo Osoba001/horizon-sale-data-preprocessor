@@ -9,11 +9,21 @@ namespace HorizonPreProcessor.Api
         public static WebApplication MapSaleDataTransformApis(this WebApplication app)
         {
             app.MapPost("/api/SaleDataTransform", TransformStream);
+            app.MapGet("/", () => Results.Ok(new
+            {
+                status = "Horizon PreProcessor API is running ✔️",
+                instructions = "Please use the HorizonPreProcessor.Api.http file on the project or test from command line (curl or Postman) to POST data to /api/SaleDataTransform.",
+                httpFile = "HorizonPreProcessor.Api.http",
+                examplePost = "POST https://localhost:7085/api/SaleDataTransform",
+                description = "Send your JSON array data in the POST body."
+            }));
+
             return app;
         }
 
         private static async Task<IResult> TransformStream(HttpRequest request, ISalesDataTransformer transformer)
         {
+
             var jsonOptions = new JsonSerializerOptions
             {
                 PropertyNameCaseInsensitive = true,
